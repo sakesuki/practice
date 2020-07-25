@@ -3,3 +3,4 @@ gitの内容を変更しました
 変更を戻しました
 ・gid add
 git rm学習
+git status
