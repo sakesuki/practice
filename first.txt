@@ -4,3 +4,4 @@ gitの内容を変更しました
 ・gid add
 git rm学習
 git status
+git diff
